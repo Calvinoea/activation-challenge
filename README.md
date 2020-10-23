@@ -1,4 +1,4 @@
-# activation-challenge: Avatar Contracts Visualization and NFT-Avatar Marketplace
+# Activation-challenge: Avatar Contracts Visualization and NFT-Avatar Marketplace
 
 Aggregate and visualize data on Avatar Contracts and provide a non-fungible token market with NFTs (Non-fungible tokens) representing avatar contracts and other DAO events.
 
