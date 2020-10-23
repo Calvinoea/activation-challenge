@@ -2,7 +2,7 @@
 
 Aggregate and visualize data on Avatar Contracts and provide a non-fungible token market with NFTs (Non-fungible tokens) representing avatar contracts and other DAO events.
 
-Hosted at: https://musing-easley-b76b91.netlify.app/  | https://eager-lovelace-5886ee.netlify.app/
+Hosted at: [Avatar Contracts Visualizer](https://musing-easley-b76b91.netlify.app/)  | [NFT-Avatar Marketplace](https://eager-lovelace-5886ee.netlify.app/) 
 
 ### About 
 For positive and inclusive growth to be achieved in blockchain networks, data must be aggregated and shared seamelessly while also being presented in ways that improve transprency of the markets.  Non-fungible tokens can help to increase the flow of DAO information through different verticals. 
