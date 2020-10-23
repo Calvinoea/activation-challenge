@@ -1,4 +1,4 @@
-# activation-challenge: Avatar Contracts Visualization and Avatar-NFT Markets
+# activation-challenge: Avatar Contracts Visualization and NFT-Avatar Marketplace
 
 Aggregate and visualize data on Avatar Contracts and provide a non-fungible token market with NFTs (Non-fungible tokens) representing avatar contracts and other DAO events.
 
@@ -12,6 +12,12 @@ NFTS can serve as a medium that bridges the gaps of knowledge about DAO activity
 Non-fungible tokens serve as one of the most important ways by which bridges can be built for internal and external stakeholders of the decentralized technology ecosystem. A non-fungible token market, based on decentralized autonomous organization activity could help to increase engagement from external stakeholders with not only decentralizd autonomous organiztions but also with the larger blockchain ecosystem. 
 
 The application could make it possible for people to easily support activities and events that DAOs are involved in by buying non-fungible tokens which represent their activities. With this medium of participation, people won't have to worry about the complex technologies behind blockhain networks. It allows for decentralized networks to be expanded beyond DAOs. In some ways, it could be compared to an auction house or museum of the decentralized finance sector where ideas on the future of the world with blockchain can be easily shared and bought into in ways that enable positive shared growth between different communities across the world.
+
+### Features
+
+- Aggregation of Avatar contracts data on a table
+- Presentation of Avatar contracts balance on a graph
+- NFT Marketplace demo, made using whitelabel solution provided by Open Sea. 
 
 
 # Local Setup
